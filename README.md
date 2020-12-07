@@ -6,3 +6,11 @@ More detail algorithm can be found in [our paper](http://rllab.snu.ac.kr/publica
 Minjae Kang*, Kyungjae Lee*, and Songhwai Oh, "[Soft Action Particle Deep Reinforcement Learning for a Continuous Action Space](http://rllab.snu.ac.kr/publications/papers/2019_iros_sapdrl.pdf)," in Proc. of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Nov. 2019. 
 
 \*: Equal contribution
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
